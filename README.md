@@ -1,2 +1,1 @@
-# SofwareConstruction
-Assignment 2 software construction
+# software-construction-Assignment2
